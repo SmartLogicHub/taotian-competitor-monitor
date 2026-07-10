@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.venv/
+.codex/
+.agents/
+build/
+build_fixed/
+build_qr_fixed/
+build_final_fixed/
+build*/
+dist/
+dist_fixed/
+dist_qr_fixed/
+dist_final_fixed/
+dist*/
+*.zip
+*.bak
+*.spec
+.codex-tmp/
+.playwright-mcp/
+taobao-*.png
+_update_webapp*.py
+
+# Legacy tests for modules removed from the current application.
+tests/test_excel_io.py
+tests/test_runner.py
+tests/test_template_filler.py

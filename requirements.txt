@@ -1,0 +1,5 @@
+openpyxl==3.1.5
+playwright>=1.44
+pyinstaller>=6.0
+cryptography>=41.0
+requests>=2.31
